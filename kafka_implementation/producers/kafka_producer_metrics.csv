@@ -1,0 +1,6 @@
+timestamp,broker,topic_partition,messages_sent,throughput_msgs_per_sec,avg_time_per_message_ms,avg_batch_size_bytes,record_send_rate_rec_s,avg_queue_time_ms
+2025-10-08 14:43:12,-,-,2,0.03,29466.19,26930,-,-
+2025-10-08 14:44:02,-,-,2,0.04,24927.50,26730,-,-
+2025-10-08 14:44:56,-,-,2,0.04,26831.56,28507,-,-
+2025-10-08 14:45:52,-,-,2,0.04,28286.10,136987,-,-
+2025-10-08 14:46:41,-,-,2,0.04,24412.65,23353,-,-
