@@ -24,11 +24,9 @@ conf = {
     'auto.offset.reset': 'earliest',
     'fetch.min.bytes': 8192, # wait until at least 8kilobytes of data are available across all partitions assigned to the consumer before sending a response
     'fetch.max.bytes': 1048576, # maximum bytes to fetch in one request, 1MB
-    #'fetch.max.wait.ms': 500,
     'heartbeat.interval.ms': 3000,
     'session.timeout.ms': 45000,
     'max.poll.interval.ms': 300000,
-    #'max.poll.records': 500,
     'request.timeout.ms': 30000,
     'allow.auto.create.topics': 'false'
 }
